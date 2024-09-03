@@ -6,8 +6,9 @@
 <br>
 
 ### Me chamo Ignacio Gomes :blush: tenho 32 anos :baby: e sou de Natal/RN :house:
-- Em transição de carreira para área de programação - Front End
+- Em transição de carreira para área de programação 
 - Cursando Ciência da Computação - Faculdade Estácio
+- Atualmente estudando Python pela Hashtag Treinamentos
 - Sou formado em Engenharia Civil
 <br>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devignaciodlbg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
