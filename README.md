@@ -5,9 +5,9 @@
 </div>
 <br>
 
-### Me chamo Ignacio Gomes :blush: tenho 32 anos :baby: e sou de Natal/RN :house:
+### Me chamo Ignacio Gomes :blush: tenho 33 anos :baby: e sou de Natal/RN :house:
 - Em transição de carreira para área de programação 
-- Cursando Ciência da Computação - Faculdade Estácio
+- Cursando Análise de Dados - Faculdade Cruzeiro do Sul
 - Atualmente estudando Python pela Hashtag Treinamentos
 - Sou formado em Engenharia Civil
 <br>
